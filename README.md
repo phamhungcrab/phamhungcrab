@@ -4,7 +4,7 @@
 
 
 <div> <a href="https://github.com/phamhungcrab/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phamhungcrab" />
+  <img height=15000 align="center" src="https://github-readme-stats.vercel.app/api?username=phamhungcrab&card_width=900" />
 </a>
 </div>
 <div><a href="https://github.com/phamhungcrab/convoychat">
