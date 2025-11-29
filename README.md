@@ -1,16 +1,3 @@
-<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamhungcrab&show=reviews&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamhungcrab&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhungcrab&stats_format=bytes) -->
-
-
-<div> <a href="https://github.com/phamhungcrab/github-readme-stats">
-  <img height=15000 align="center" src="https://github-readme-stats.vercel.app/api?username=phamhungcrab&card_width=900" />
-</a>
-</div>
-<div><a href="https://github.com/phamhungcrab/convoychat">
-  <img height=15000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamhungcrab&langs_count=8&card_width=900&stats_format=bytes" />
-</a>
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
