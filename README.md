@@ -1,11 +1,34 @@
 <!-- Profile README for github.com/phamhungcrab -->
 
 <h1 align="center">Hi there 👋, I'm Hung</h1>
-<h3 align="center">Student • Developer • Problem Solver</h3>
+<h3 align="center">Student • Backend / Full-stack Learner • AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phamhungcrab&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=phamhungcrab&label=Profile%20views&color=00c9a7&style=flat" alt="profile views" />
 </p>
+
+---
+## 📊 GitHub Overview
+
+<!-- Row 1: Main stats + donut-vertical languages -->
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-iota-nine-90.vercel.app/api?username=phamhungcrab&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&hide_border=true"
+    alt="phamhungcrab's GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    height="170"
+    src="https://github-readme-stats-iota-nine-90.vercel.app/api/top-langs/?username=phamhungcrab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="phamhungcrab's Top Languages (Compact)"
+  />
+</p>
+
+
+
+
+
 
 ---
 
@@ -95,7 +118,7 @@ A full-stack system to manage students, classes, departments, and users.
 
 A web-based chatbot to help students with the **“Introduction to Artificial Intelligence”** course.
 
-- Built with **Flask**, **SQLite**, and **classic ML algorithms**
+- Built with **Flask**, **SQLite**, and classic ML algorithms
 - Uses Naïve Bayes, KNN, and Cosine Similarity
 - Frontend with Flask templates (HTML + CSS + JS)
 
@@ -103,20 +126,25 @@ A web-based chatbot to help students with the **“Introduction to Artificial In
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamhungcrab&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhungcrab&layout=compact&langs_count=8&theme=radical)
-
----
-
 ## 📌 Pinned Repositories
 
-[![StoreManager](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=StoreManager&theme=radical)](https://github.com/phamhungcrab/StoreManager)
-[![StudentManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=StudentManagementSystem&theme=radical)](https://github.com/phamhungcrab/StudentManagementSystem)  
-[![AIchatbot](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=AIchatbot&theme=radical)](https://github.com/phamhungcrab/AIchatbot)
-[![IT4409-20251](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=IT4409-20251&theme=radical)](https://github.com/phamhungcrab/IT4409-20251)
+<p align="center">
+  <a href="https://github.com/phamhungcrab/StoreManager">
+    <img src="https://github-readme-stats-iota-nine-90.vercel.app/api/pin/?username=phamhungcrab&repo=StoreManager&theme=tokyonight&hide_border=true" alt="StoreManager" />
+  </a>
+  <a href="https://github.com/phamhungcrab/StudentManagementSystem">
+    <img src="https://github-readme-stats-iota-nine-90.vercel.app/api/pin/?username=phamhungcrab&repo=StudentManagementSystem&theme=tokyonight&hide_border=true" alt="StudentManagementSystem" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/phamhungcrab/AIchatbot">
+    <img src="https://github-readme-stats-iota-nine-90.vercel.app/api/pin/?username=phamhungcrab&repo=AIchatbot&theme=tokyonight&hide_border=true" alt="AIchatbot" />
+  </a>
+  <a href="https://github.com/phamhungcrab/IT4409-20251">
+    <img src="https://github-readme-stats-iota-nine-90.vercel.app/api/pin/?username=phamhungcrab&repo=IT4409-20251&theme=tokyonight&hide_border=true" alt="IT4409-20251" />
+  </a>
+</p>
 
 ---
 
