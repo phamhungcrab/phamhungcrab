@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/phamhungcrab -->
 
-<h1 align="center">Hi there 👋, I'm Hưng</h1>
+<h1 align="center">Hi there 👋, I'm Hung</h1>
 <h3 align="center">Student • Developer • Problem Solver</h3>
 
 <p align="center">
@@ -9,20 +9,24 @@
 
 ---
 
-## 🧑‍💻 About me
+## 👨‍💻 About Me
 
-- 🎓 CS/IT student, yêu thích <b>Java</b>, <b>C#</b>, <b>Web development</b> và <b>AI</b>.
-- 🏗 Đã làm các đồ án: quản lý chuỗi cửa hàng, hệ thống thi online, chatbot AI, quản lý sinh viên,...
-- 🌱 Hiện đang học sâu hơn về:
+- 🎓 CS/IT student who loves **Java**, **C#**, **Web development**, and **AI**.
+- 🏗 I have built several projects:
+  - Store & inventory management system
+  - Online examination platform
+  - Student management system
+  - AI-based chatbot for university courses
+- 🌱 Currently learning more about:
   - Clean architecture (MVC, service, DAO)
-  - RESTful APIs & full-stack web
-  - Machine Learning / AI for education tools
-- 💬 Có thể trao đổi với mình về: <b>Java + MySQL</b>, <b>C#</b>, <b>Node.js/Express</b>, <b>MongoDB</b>, <b>Flask</b>.
-- 🎯 Mục tiêu: trở thành software engineer có thể vừa code tốt, vừa thiết kế hệ thống bài bản.
+  - RESTful APIs & full-stack web apps
+  - Practical Machine Learning / AI for education tools
+- 💬 Feel free to talk to me about **Java + MySQL**, **C#**, **Node.js/Express**, **MongoDB**, or **Flask**.
+- 🎯 Goal: become a software engineer who can both **design systems** and **write clean, maintainable code**.
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -49,38 +53,51 @@
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
-### 🏪 StoreManager – Phần mềm quản lý chuỗi cửa hàng (Java + MySQL)
-Hệ thống quản lý đa chức năng cho chuỗi cửa hàng: khách hàng – kho – tài chính.  
-- Java + JavaFX, MySQL, kiến trúc nhiều module (Customer, Inventory, Finance).
-- Hỗ trợ xem tồn kho, lịch sử xuất nhập, ngân sách cửa hàng, công nợ nhà cung cấp.
+### 🏪 StoreManager – Store Chain Management (Java + MySQL)
+
+A multi-module management system for a retail store chain: customers, inventory, and finance.
+
+- Built with **Java + JavaFX** and **MySQL**
+- Modules for viewing stock history, store budgets, and supplier payables
+- Focus on clear separation between UI, services, and data access
 
 🔗 Repo: [StoreManager](https://github.com/phamhungcrab/StoreManager)
 
 ---
 
 ### 🎓 Online Exam System – IT4409-20251 (C#)
-Hệ thống thi trắc nghiệm online viết bằng C#.  
-- Backend C#, có thư mục `OnlineExamBe` và tài liệu trong `docs/`.
-- Tham gia với nhiều thành viên trong nhóm.
+
+An online multiple-choice examination system written in **C#**.
+
+- Backend in C#
+- Project structure with backend code and documentation
+- Designed and built as a team project
 
 🔗 Repo: [IT4409-20251](https://github.com/phamhungcrab/IT4409-20251)
 
 ---
 
 ### 🧑‍🎓 StudentManagementSystem – Full-stack Student Management
-Hệ thống quản lý sinh viên với frontend thuần HTML/CSS/JS & backend Node.js/Express (MongoDB mặc định, có hỗ trợ MySQL).  
-- Chức năng: quản lý sinh viên, lớp, khoa, người dùng, CSV/PDF export,…
+
+A full-stack system to manage students, classes, departments, and users.
+
+- Frontend: vanilla **HTML/CSS/JS**
+- Backend: **Node.js/Express** (MongoDB by default, can be adapted to MySQL)
+- Supports student management, class management, CSV/PDF export, and more
 
 🔗 Repo: [StudentManagementSystem](https://github.com/phamhungcrab/StudentManagementSystem)
 
 ---
 
-### 🤖 AIchatbot – Chatbot hỗ trợ học “Nhập môn Trí tuệ Nhân tạo”
-Chatbot web (Flask) giúp sinh viên hỏi–đáp nội dung môn IT3160 – “Nhập môn Trí tuệ Nhân tạo”.  
-- Sử dụng Naïve Bayes + KNN + Cosine Similarity.
-- Dữ liệu từ SQLite, giao diện Flask + HTML (Jinja2) + CSS + JS.
+### 🤖 AIchatbot – AI Assistant for “Introduction to AI”
+
+A web-based chatbot to help students with the **“Introduction to Artificial Intelligence”** course.
+
+- Built with **Flask**, **SQLite**, and **classic ML algorithms**
+- Uses Naïve Bayes, KNN, and Cosine Similarity
+- Frontend with Flask templates (HTML + CSS + JS)
 
 🔗 Repo: [AIchatbot](https://github.com/phamhungcrab/AIchatbot)
 
@@ -88,42 +105,23 @@ Chatbot web (Flask) giúp sinh viên hỏi–đáp nội dung môn IT3160 – �
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/phamhungcrab">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=phamhungcrab&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/phamhungcrab">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhungcrab&layout=compact&langs_count=8&theme=radical&card_width=320" alt="Top Languages" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamhungcrab&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhungcrab&layout=compact&langs_count=8&theme=radical)
 
 ---
 
-## 📌 Pinned repositories
+## 📌 Pinned Repositories
 
-<p align="center">
-  <a href="https://github.com/phamhungcrab/StoreManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=StoreManager&theme=radical" alt="StoreManager" />
-  </a>
-  <a href="https://github.com/phamhungcrab/StudentManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=StudentManagementSystem&theme=radical" alt="StudentManagementSystem" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/phamhungcrab/AIchatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=AIchatbot&theme=radical" alt="AIchatbot" />
-  </a>
-  <a href="https://github.com/phamhungcrab/IT4409-20251">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=IT4409-20251&theme=radical" alt="IT4409-20251" />
-  </a>
-</p>
+[![StoreManager](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=StoreManager&theme=radical)](https://github.com/phamhungcrab/StoreManager)
+[![StudentManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=StudentManagementSystem&theme=radical)](https://github.com/phamhungcrab/StudentManagementSystem)  
+[![AIchatbot](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=AIchatbot&theme=radical)](https://github.com/phamhungcrab/AIchatbot)
+[![IT4409-20251](https://github-readme-stats.vercel.app/api/pin/?username=phamhungcrab&repo=IT4409-20251&theme=radical)](https://github.com/phamhungcrab/IT4409-20251)
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Connect With Me
 
-<!-- Thêm các link khác (LinkedIn, Facebook, portfolio, email,...) nếu bạn muốn -->
 - 💼 GitHub: [@phamhungcrab](https://github.com/phamhungcrab)
 
 ---
